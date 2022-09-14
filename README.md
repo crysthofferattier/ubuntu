@@ -5,7 +5,6 @@ Things to do after installing ubuntu
 ## Install
 
 * [OpenRazer](https://openrazer.github.io/)
-* 
 
 ### Update and Upgrade System
 
@@ -47,10 +46,11 @@ set tabstospaces
 
 ### audio
 
+Add the second commnad to **~/.profile** file
+
 ```
 pactl list short sinks
 pactl set-default-sink [sound-device]
-nano ~/.profile
 ```
 
 ### Startup Apps
