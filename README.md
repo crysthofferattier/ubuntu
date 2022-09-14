@@ -62,4 +62,3 @@ transmission-gtk -m
 ## Authors
 
 * **Crysthoffer Ratier** - [Linkedin](https://www.linkedin.com/in/crysthofferatier/)
-sajkdhsakjhgi
