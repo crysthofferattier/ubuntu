@@ -1,5 +1,18 @@
-# ubuntu
-Things to after installing ubuntu
+# Ubuntu
+
+Things to do after installing ubuntu
+
+## Install
+
+* [OpenRazer](https://openrazer.github.io/)
+* 
+
+### Update and Upgrade System
+
+```
+$ sudo apt update
+$ sudo apt upgrade
+```
 
 ### Ubuntu Restricted Extras
 
@@ -7,7 +20,7 @@ Things to after installing ubuntu
 $ sudo apt-get install ubuntu-restricted-extras
 ```
 
-### Git v2.7.4
+### Git
 
 Git installation guide [link](https://git-scm.com/download/linux)
 
@@ -15,12 +28,13 @@ Git installation guide [link](https://git-scm.com/download/linux)
 $ sudo apt-get install git
 ```
 
-### VirtualBox v5.0.40
+### VirtualBox
+
+[Download](https://www.virtualbox.org/wiki/Linux_Downloads)
 
 ```
 $ sudo apt-get install virtualbox
 ```
-
 
 ### Others
 
@@ -39,6 +53,12 @@ pactl set-default-sink [sound-device]
 nano ~/.profile
 ```
 
+### Startup Apps
+
+```
+transmission-gtk -m
+```
+
 ## Authors
 
-* **Crysthoffer Amira Ratier** - *Initial work* - [Linkedin](https://www.linkedin.com/in/crysthofferatier/)
+* **Crysthoffer Amira Ratier** - [Linkedin](https://www.linkedin.com/in/crysthofferatier/)
